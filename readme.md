@@ -50,12 +50,8 @@ The project is running on the port number provided by you.
 
 ### 📚 Libraries:
 
-- bcryptjs
-- connect-flash
 - connect-mongo
-- cookie-parser
 - dotenv
-- ejs
 - express
 - express-ejs-layout
 - express-session
